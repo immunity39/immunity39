@@ -16,7 +16,9 @@
   <a href="https://zenn.dev/tan1">Zenn ポートフォリオ</a><br>
 </p>
 
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=immunity39&layout=compact&count_private=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=immunity39&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=immunity39&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=immunity39)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=immunity39&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
