@@ -1,7 +1,5 @@
-## Profile
-
 ### Hi There 👋!
-Thank you for visiting my GitHub profile. It's a pleasure to meet you here!
+**Thank you for visiting my GitHub profile. It's a pleasure to meet you here!**
 
 
 <p align="left">
