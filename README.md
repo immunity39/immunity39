@@ -1,5 +1,9 @@
 ## Profile
 
+### Hi There 👋!
+Thank you for visiting my GitHub profile. It's a pleasure to meet you here!
+
+
 <p align="left">
   <a href="https://twitter.com/ei19393939">
     <img height="20" src="https://img.shields.io/twitter/follow/immunity39?label=Twitter&logo=twitter&style=flat" />
@@ -46,3 +50,5 @@
   <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/immunity39/immunity39/output-3d-contrib/day.svg" />
 </picture>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=immunity39&theme=aura_dark)
