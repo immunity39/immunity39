@@ -3,7 +3,7 @@ name: generate 3d chart for profile contributions
 on:
     # run automatically every 24 hours
     schedule:
-        - cron: "0 0 * * *"
+        - cron: "0 15 * * *"
 
     # allows to manually run the job at any time
     workflow_dispatch:
@@ -17,6 +17,7 @@ on:
 jobs:
     build:
         runs-on: ubuntu-latest
+        timeout-minutes: 100
         name: generate-github-profile-3d-contrib
         steps:
             - uses: actions/checkout@v3
