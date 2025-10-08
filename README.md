@@ -19,7 +19,7 @@
   <a href="https://protopedia.net/prototyper/tan1939">Protopedia ポートフォリオ</a><br>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=immunity39&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=immunity39&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=immunity39&theme=aura_dark)
 
