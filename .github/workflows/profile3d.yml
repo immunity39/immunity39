@@ -2,7 +2,7 @@ name: generate 3d chart for profile contributions
 
 on:
     schedule:
-        - cron: " 30 13 * * *"
+        - cron: " 0 13 * * *"
 
     # allows to manually run the job at any time
     workflow_dispatch:
