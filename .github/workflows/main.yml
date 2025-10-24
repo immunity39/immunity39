@@ -1,6 +1,5 @@
 name: Main
 on:
-    # run automatically every 24 hours
     schedule:
         - cron: "30 13 * * *"
 
