@@ -1,5 +1,10 @@
-### Hi There 👋!
+## Hi There 👋!
 **Thank you for visiting my GitHub profile. It's a pleasure to meet you here!**
+
+## My Profile
+<B>Country: Japan </B>  
+<B>Job: University Student </B>  
+<B>Gender: Male </B>  
 
 
 <p align="left">
