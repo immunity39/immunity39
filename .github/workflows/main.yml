@@ -2,6 +2,7 @@ name: Main
 on:
     schedule:
         - cron: "30 19 * * *"
+        - cron: "30 10 * * *"
 
     # allows to manually run the job at any time
     workflow_dispatch:
